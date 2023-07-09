@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ariefjayadi
 - 👀 I’m interested in web developer
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning html, css and javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on my github
 
